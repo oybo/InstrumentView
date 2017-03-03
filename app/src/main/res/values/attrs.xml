@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InstrumentView">
+        <!-- 控件数字大小  -->
+        <attr name="iv_txt_size" format="dimension"/>
+        <!-- 渐变区域长度  -->
+        <attr name="iv_selector_width" format="dimension"/>
+        <!-- 指针颜色  -->
+        <attr name="iv_pointer_color" format="color"/>
+    </declare-styleable>
+</resources>
